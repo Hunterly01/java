@@ -1,0 +1,8 @@
+Write Java statements that accomplish each of the following tasks:
+ a) Display the message "Enter an integer:", leaving the cursor on the same line.
+ b) Assign the product of variables b and c to the int variable a.
+ c) Use a comment to state that a program performs a sample payroll calculation.
+             Solution
+  a) System.out.println("Enter an interger ");
+  b) a = b * c;
+  c) //This program performs a sample payroll calculation

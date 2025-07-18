@@ -1,0 +1,13 @@
+Exercises
+ 2.7 Fill in the blanks in each of the following statements:
+ a) _______are used to document a program and improve its readability.
+   answer: comment
+ b) A decision can be made in a Java program with a(n)_______
+  answer:if statement
+ c) The arithmetic operators with the same precedence as multiplication are_____ and______
+  answer:devision and modulus
+ d) When parentheses in an arithmetic expression are nested, the________set of parenthe
+ses is evaluated first. answer: innermost
+ e) A location in the computer’s memory that may contain different values at various times
+ throughout the execution of a program is called a(n)________
+ answer: variable

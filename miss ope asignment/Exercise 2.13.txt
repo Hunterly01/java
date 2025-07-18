@@ -1,0 +1,8 @@
+What is the output that will be printed after execution of the following Java code snippet?
+ Explain why.
+ int p = 5;
+ System.out.printf("%d", p + 2 * 4);
+ System.out.printf("%d", p * 2 + 4);
+       Solution
+The output that will be printed 1314 because the System.out.printf("%d", p + 2 * 4); and System.out.printf("%d", p * 2 + 4);
+inside the paremeter there is no %n so thats why it didnt print line by line and also the System.out.printf is in format form.

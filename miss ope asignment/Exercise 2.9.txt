@@ -1,0 +1,13 @@
+State whether each of the following is true or false. If false, explain why.
+ a) Addition is executed first in the following expression: a * b / (c + d) * 5.
+ b) The following are all valid variable names: AccountValue, $value, value_in_$, ac
+count_no_1234, US$, her_sales_in_$, his_$checking_account, X!, _$_, a@b, and
+ _name.
+ c) In 2 + 3 + 5 / 4, addition has the highest precedence.
+ d) The following are all invalid variable names: name@email.com, 87, x%, 99er, and 2_.
+                      Solution
+ a) False. The statement is false because the expression inside the parentheses(c+d) is evaluated first.
+ b) False. $value is an ivalid variable name,US$ is an ivalid variable name, X! is an ivalid variable name,
+   a@b is an ivalid variable name. $value, US$, X!, a@b, are invalid because they contain invalid character
+ c) False. in the expression division as the highest predecence than addition.
+ d) True
