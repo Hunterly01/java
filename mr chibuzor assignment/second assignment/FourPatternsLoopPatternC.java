@@ -1,18 +1,7 @@
-public class FourPatternsLoopPatternC	 {
- public static void main (String[] args) {
+public class FourPatternsLoopPatternC {
+  public static void main(String[] args) {
 
-int count = 1;
-while (count <= 6) {
+for(int k = 1; k++){
+  for(int)
 
-    int x = count;
-while (x >= 1) {
- System.out.print(x + " ");
-      x++;
-}
-System.out.println();
- count--;
-}
-
-
-}
   }

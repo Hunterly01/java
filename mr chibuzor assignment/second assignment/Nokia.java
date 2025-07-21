@@ -228,8 +228,7 @@ switch(menuFunctions) {
                     }
                break;
                       case 8: System.out.println("8.Prepaid credit"); break;
-                                            case 0: System.out.println(prompt); 
-                      menuFunction = input.nextInt(); break;
+                      case 0: System.out.println(prompt); break;
                       default: System.out.println("Invalid option."); break;
                     }  
                 break;

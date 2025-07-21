@@ -10,7 +10,7 @@ while (x <= row) {
 }
 
     
-System.out.println(1);
+System.out.println("");
  row++;
 }
 
